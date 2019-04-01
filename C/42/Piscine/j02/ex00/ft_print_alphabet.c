@@ -8,3 +8,4 @@ void	ft_print_alphabet(void)
 	while (c <= 'z')
 		ft_putchar(c++);
 }
+
